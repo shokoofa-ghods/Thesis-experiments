@@ -25,14 +25,14 @@ This approach analyzes echocardiographic videos using spatiotemporal information
   - Multi-Head Self-Attention models
 
 - **Dynamic Weighting:** The contribution of spatial and temporal dependencies to model predictions was dynamically weighted to optimize performance.
-- **Micro F1 Score:** Achieved a micro F1 score of 0.951 across 11 cardiac viewpoints.
+- **Micro F1 Score:** Achieved a micro F1 score of 95.1% across 11 cardiac viewpoints.
 
 ---
 
 ## **Technologies Used**
 
-- **Frameworks:** PyTorch, NumPy, SciPy, Matplotlib
-- **Architectures:** CNNs, RNNs, Vision Transformers, 3D CNNs
+- **Frameworks:** PyTorch, NumPy, SciPy, Pandas, Transforms, Torchvision
+- **Architectures:** CNNs, RNNs, Vision Transformers, 3D CNNs, Attention, Residual connections, Dilated CNNs
 - **Preprocessing:** ECG-assisted sampling for image and video classification
 
 ---
@@ -44,8 +44,8 @@ This approach analyzes echocardiographic videos using spatiotemporal information
 
 
 ### Video-Based Classification
-<img src=![image](https://github.com/user-attachments/assets/f2f8a12f-be46-4801-b10b-7ef81b96e239) alt="Confusion Matrix - Video-Based" width="600">
-![image](https://github.com/user-attachments/assets/f2f8a12f-be46-4801-b10b-7ef81b96e239)
+<img src=![image](https://github.com/user-attachments/assets/a97e9b17-1fd6-4f6a-9b1f-956885543ca4) alt="Confusion Matrix - Video-Based" width="600">
+
 
 
 
