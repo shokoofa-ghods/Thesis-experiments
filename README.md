@@ -44,7 +44,8 @@ This approach analyzes echocardiographic videos using spatiotemporal information
 
 
 ### Video-Based Classification
-<img src=![image](https://github.com/user-attachments/assets/a97e9b17-1fd6-4f6a-9b1f-956885543ca4) alt="Confusion Matrix - Video-Based" width="600">
+![image](https://github.com/user-attachments/assets/f3649b4b-da8d-42c4-8494-a2fbe30818d3)
+
 
 
 
