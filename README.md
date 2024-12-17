@@ -57,6 +57,7 @@ This approach analyzes echocardiographic videos using spatiotemporal information
 | Approach          | Metric       | Value     |  Model 
 |-------------------|--------------|-----------|-----------
 | Image-Based       | Micro F1     | 92.4%     | EfficientNet-b2
-| Video-Based       | Micro F1     | 95.1%     | EfficientNet-b2 (Backbone) + Dilated CNNs (Temporal)
+| Video-Based       | Micro F1     | 95.1%     | EfficientNet-b2 (Backbone) 
+                                                 + Dilated CNNs (Temporal)
 
 ---
